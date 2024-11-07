@@ -37,6 +37,18 @@ In network settings we can use the default VPC given by AWS. In short, keep the 
 ![Screenshot 2024-11-06 145704](https://github.com/user-attachments/assets/81b688b9-cda7-492d-9e10-e42a7078b364)
 
 
+# ssh to server
+
+Navigate to instance page and select instance recently launched and click on connect button top 
+
+![Screenshot 2024-11-06 150628](https://github.com/user-attachments/assets/822c1434-6749-4a6c-8eef-17e3485d21b6)
+
+
+Scroll down and click connect button 
+
+![Screenshot 2024-11-06 150908](https://github.com/user-attachments/assets/504d7daa-c15f-41d6-b554-744a2ee103fb)
+
+
 
 # Change to root user
 
