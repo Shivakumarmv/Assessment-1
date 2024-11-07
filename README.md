@@ -41,7 +41,7 @@ In network settings we can use the default VPC given by AWS. In short, keep the 
 
 Navigate to instance page and select instance recently launched and click on connect button top 
 
-![Screenshot 2024-11-06 150628](https://github.com/user-attachments/assets/822c1434-6749-4a6c-8eef-17e3485d21b6)
+![Screenshot 2024-11-07 150759](https://github.com/user-attachments/assets/34d6ea4a-c8d3-4562-9637-b21e2603d24c)
 
 
 Scroll down and click connect button 
